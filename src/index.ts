@@ -11,7 +11,7 @@ import "prismjs/plugins/line-numbers/prism-line-numbers.css";
 import "prismjs/plugins/line-numbers/prism-line-numbers.js";
 import "./style.css";
 
-import * as debounce from "debounce";
+import debounce from "debounce";
 
 const Prism: any = PrismJS;
 

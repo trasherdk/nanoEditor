@@ -28,6 +28,7 @@
     "prismjs": "^1.24.0"
   },
   "devDependencies": {
+    "@types/debounce": "^1.2.0",
     "@types/prismjs": "^1.16.5",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^5.2.0",
