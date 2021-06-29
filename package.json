@@ -25,10 +25,10 @@
   "homepage": "https://github.com/ClickSimply/nanoEditor#readme",
   "dependencies": {
     "debounce": "^1.2.1",
-    "prismjs": "^1.23.0"
+    "prismjs": "^1.24.0"
   },
   "devDependencies": {
-    "@types/prismjs": "^1.16.4",
+    "@types/prismjs": "^1.16.5",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^5.2.0",
     "html-webpack-plugin": "^5.3.1",
